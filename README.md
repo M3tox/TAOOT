@@ -1,2 +1,5 @@
-# TAOOT
-Here you can find various files for the game "Titanic: Adventure out of time" from 1996.
+# Fixes
+Have a look in the "fixes" folder if you want to fix a few bugs that are included in the Steam/GOG version of the game.
+
+# Mods
+In this folder you find modifications that change some of the original content.
