@@ -1,5 +1,9 @@
+# How to install
+If you use the Steam or GOG version, choose the files you need from the folders and put them into your "LOCAL" folder, where your game is installed.
+If you play the game with another version, it is not that easy. In this case you must create new .ISO images of the CDs and run the game with those.
+
 # Fixes
-Have a look in the "fixes" folder if you want to fix a few bugs that are included in the Steam/GOG version of the game.
+Have a look in the "fixes" folder if you want to fix a few bugs that are only present in the Steam/GOG version of the game.
 
 Currently available bug fixes:
 HALLA.SET
