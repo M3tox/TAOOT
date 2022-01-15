@@ -17,7 +17,7 @@ ESTPORT.SET -
 Similar bug fix as for VESTSTB.SET, but for the port side. The error here is even more severe, because the player could not just use the gym door closeby.
 
 # Mods
-In this folder you find modifications that change some of the original content.
+In this folder you will find modifications that change some of the original content.
 
 Currently available:
 
