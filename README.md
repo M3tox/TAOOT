@@ -18,6 +18,7 @@ Similar bug fix as for VESTSTB.SET, but for the port side. The error here is eve
 
 # Mods
 In this folder you find modifications that change some of the original content.
+
 Currently available:
 
 LNGHALL.SET - This will unlock the door to the lounge during TOUR mode. You will be able to enter it just normally. Mind that during STORY mode there are no changes! Smethels will still not let you in before the sinking. WARNING: If you don't use the Steam or GOG version, it is not enough to replace the file on CD. You also must make sure that file "LOUNGE1C.SET" is included on BOTH CDs! Ohterwise it won't be able to load the lounge and will output a script error.
