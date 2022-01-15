@@ -6,7 +6,7 @@ If you play the game with another version, it is not that easy. In this case you
 Have a look in the "fixes" folder if you want to fix a few bugs that are only present in the Steam/GOG version of the game.
 
 Currently available bug fixes:
-HALLA.SET
+HALLA.SET\n
 Fixes a script error that appears when entering the A-Deck corridors during TOUR mode. Without this fix, the player would get spammend with error messages, until he leaves the corridor.
 
 VESTSTBD.SET
