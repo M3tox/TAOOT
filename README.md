@@ -10,6 +10,9 @@ Currently available bug fixes:
 HALLA.SET -
 Fixes a script error that appears when entering the A-Deck corridors during TOUR mode. Without this fix, the player would get spammend with error messages, until he leaves the corridor.
 
+HALLB.SET -
+Brings back "Jay". In the CD version he walked up and down the corridors. For some reason he was missing in the Steam/GOG version.
+
 VESTSTBD.SET -
 fixes bug in the door logic. In the regular version, the player would end up on A-Deck promenade when using the door on BOAT Deck in the grand stair case, starboard side.
 
