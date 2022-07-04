@@ -19,6 +19,8 @@ fixes bug in the door logic. In the regular version, the player would end up on 
 ESTPORT.SET -
 Similar bug fix as for VESTSTB.SET, but for the port side. The error here is even more severe, because the player could not just use the gym door closeby.
 
+If you download the "FULL"Patch under "Releases" you will also get a bunch of SET files that fixes the bug that made the image blurry when going around the ship.
+
 # Mods
 In the "mods" folder you will find modifications that change some of the original content.
 
